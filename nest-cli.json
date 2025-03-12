@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "assets": ["views/emails/**/*", "i18n/**/*", "generated/**/*"],
+    "watchAssets": true,
+    "builder": {
+      "type": "swc",
+      "options": { "swcrcPath": "./swc-config.swcrc" }
+    },
+    "typeCheck": true
+  }
+}

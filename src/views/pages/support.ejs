@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Support | <%= process.env.APP_NAME %></title>
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="<%= process.env.APP_URL  %>/images/favicon.ico"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body,
+      html {
+        font-family: 'Work Sans', sans-serif;
+        background-color: #000000;
+        color: rgb(255, 255, 255);
+      }
+
+      a {
+        color: rgb(255, 255, 255);
+      }
+      .container h1,
+      .container h4 {
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+      }
+      h5 {
+        color: #ffffff;
+      }
+      .display {
+        font-family: 'Work Sans', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      class="container text-center"
+      style="
+        display: flex;
+        height: 100vh;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      "
+    >
+      <img
+        src="<%= process.env.APP_URL  %>/images/logo.png"
+        alt="logo"
+        width="140px"
+        class="mb-3"
+      />
+      <h3 class="text-center display">Support</h3>
+      <p>
+        If you have any questions or suggestions about the Application, please
+        do not hesitate to contact us at
+        <a href="mailto:support@appname.com">support@appname.com</a>.
+      </p>
+    </div>
+  </body>
+</html>

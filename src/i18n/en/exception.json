@@ -1,0 +1,23 @@
+{
+  "REQUIRED_PARAMETERS_MISSING": "Oops! Invalid request Required parameters are missing.",
+  "NOT_FOUND": "{property} not found.",
+
+  "APP_DATA_NOT_STORED": "The app version data could not be stored. Please try again.",
+
+  "USER_BLOCKED_BY_ADMIN": "Your account has been blocked by the administrator. For assistance, please contact the administrator.",
+  "ENTER_VALID_PASSWORD": "Please enter a valid old password",
+  "EMAIL_USER_ALREADY_REGISTERED": "This email is already registered with us.",
+  "EMAIL_NOT_REGISTERED": "This email is not registered with us. Please sign up first.",
+  "INVALID_PASSWORD": "The password entered is incorrect. Please check and try again.",
+  "EMAIL_ASSOCIATED_WITH_SOCIAL_PLATFORM": "The email address provided is already linked to {property}. Please log in using {property}.",
+  "INVALID_OTP": "The OTP you entered is invalid. Please verify and try again.",
+  "OTP_EXPIRED": "The verification code has expired. Please request a new reset password email.",
+  "ACCOUNT_DISABLED": "Your account is temporarily disabled. Please contact the administrator for support.",
+  "USER_ALREADY_REGISTERED": "This email address is already registered. Please log in using your email and password.",
+  "EMAIL_ALREADY_VERIFIED": "This email address has already been verified.",
+  "PROPERTY_NOT_FOUND": "The specified {property} could not be found.",
+  "NEW_PASSWORD_CANNOT_BE_SAME": "The new password cannot be the same as your current password. Please choose a different password.",
+  "INVALID_SOCIAL_PROVIDER": "Oops! Invalid social provider",
+
+  "ONLY_IMAGES_ALLOWED": "Only image files are allowed! Ex. jpg, jpeg, png"
+}

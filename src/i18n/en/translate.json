@@ -1,0 +1,29 @@
+{
+  "SUCCESS": "success",
+  "CREATED": "Your {property} has been created successfully!",
+  "UPDATED": "{property} updated successfully.",
+  "DELETED": "{property} has been removed successfully.",
+
+  "UPDATE_APP": "Looks like you’re using an older version of the app. Update now to enjoy the latest features and improvements!",
+  "OUTDATED_APP": "Your app version is outdated. Please update to keep things running smoothly.",
+  "UP_TO_DATE_APP": "Great news! Your app is already up to date.",
+
+  "REGISTER_SUCCESS": "Welcome aboard! Your account has been created successfully.",
+  "INVALID_PASSWORD": "Oops! The password you entered is incorrect. Please try again.",
+  "PROFILE_DELETED": "Your profile has been deleted successfully. We’re sad to see you go!",
+  "NOTIFICATION_ON": "Notifications are now turned on. Stay tuned!",
+  "NOTIFICATION_OFF": "Notifications are now turned off. You won’t be disturbed.",
+  "VALID_OLD_PASSWORD": "Please enter your current password to proceed.",
+  "VERIFICATION_CODE_SENT": "We’ve sent a verification code to your email. Check your inbox!",
+  "CONFIRM_MAIL": "A confirmation email has been sent to your registered email address. Please check it out.",
+  "LOGGED_IN": "Welcome back! You’ve logged in successfully.",
+  "EMAIL_NOT_VERIFIED": "Your email isn’t verified yet. Please check your inbox for the verification email.",
+  "FORGET_PASSWORD_CODE_SENT": "We’ve emailed you a password reset code. Check your inbox!",
+  "OTP_VERIFIED": "Your verification code has been successfully verified.",
+  "PASSWORD_CHANGED": "Your password has been updated successfully!",
+  "LOGGED_OUT": "You’ve logged out. See you again soon!",
+  "PROFILE_UPDATED": "Your profile has been updated. Looking good!",
+  "NOTIFICATION_ON_OFF": "Notifications are now {property}.",
+  "USER_BLOCKED_BY_ADMIN": "This user has been blocked successfully.",
+  "USER_UNBLOCKED": "This user has been unblocked successfully."
+}

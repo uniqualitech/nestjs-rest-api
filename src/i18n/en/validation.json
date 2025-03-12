@@ -1,0 +1,21 @@
+{
+  "isString": "{property} must be a string",
+  "isNotEmpty": "{property} can't be empty",
+  "isEmail": "{property} must be an email",
+  "isPhoneNumber": "{property} must be a valid phone number",
+  "minLength": "{property} must be longer than or equal to {value} characters",
+  "maxLength": "{property} cpfNumber must be shorter than or equal to {value} characters",
+  "Match": "The {value} and {property} does not match",
+  "isLatLong": "{property} must be a latitude,longitude string",
+  "isIn": "{property} must be one of the following values: {value}",
+  "isInt": "{property} must be an integer number",
+  "isBooleanString": "{property} must be a boolean string",
+  "isEnum": "{property} must be a valid enum value",
+  "isBoolean": "{property} must be a boolean value",
+  "isNumber": "{property} must be a number conforming to the specified constraints",
+  "max": "{property} must not be greater than {value}",
+  "min": "{property} must not be less than {value}",
+  "minDate": "{property} must not be less than {value}",
+  "maxDate": "{property} must not be less than {value}",
+  "isLength": "{property} must be in valid length"
+}
